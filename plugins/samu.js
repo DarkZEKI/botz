@@ -5,15 +5,15 @@ let handler = async m => m.reply(`
 
 COMO CREAR ESTE BOT:
 
-https://youtu.be/chMc57gjmkI
+luego
 
 𝙈𝙮 𝘾𝙝𝙖𝙣𝙚𝙡:
 
-https://www.youtube.com/channel/UCHD4T8Pfcv5PFVzsAbfAPZA
+https://youtube.com/channel/UCnJsyIe2XksWO3jVHGXYMhw
                                         
 `.trim()) 
-handler.help = ['samu']
+handler.help = ['darkze']
 handler.tags = ['info']
-handler.command = /^samu$/i
+handler.command = /^darkze$/i
 
 module.exports = handler
