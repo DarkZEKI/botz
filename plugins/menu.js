@@ -95,17 +95,12 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 *║┊:* 🕐𝘁𝗶𝗲𝗺𝗽𝗼 𝗱𝗲 𝗮𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱: *%uptime*
 *║┊:* 💻𝗮𝗰𝘁𝗶𝘃𝗶𝗱𝗮𝗱 𝗽𝗿𝗶𝗻𝗰𝗶𝗽𝗮𝗹 *%muptime*
 *║┊:* 📁𝗗𝗮𝘁𝗮𝗯𝗮𝘀𝗲: %totalreg numeros
-*║┊:* ◦ 🌐Navegador : *${conn.browserDescription[1]}*
-*║┊:* ◦ 📡servidor : *${conn.browserDescription[0]}*
-*║┊:* ◦ ✅version : *${conn.browserDescription[2]}*
-*║┊:* ◦ 🚄Velocidad : *${neww}* ms
-*║┊:* ◦ 📲Sistema operativo : *${conn.user.phone.device_manufacturer}*
-*║┊:* ◦ 🪀version de *WhatsApp* : ${conn.user.phone.wa_version}
+
 *║┊:* 👑𝐌𝐲 𝐜𝐚𝐧𝐚𝐥 𝐝𝐞 𝐲𝐨𝐮𝐭𝐮𝐛𝐞
-*║┊:* https://www.youtube.com/watch?v=chMc57gjmkI
+*║┊:* https://youtube.com/channel/UCnJsyIe2XksWO3jVHGXYMhw
 *║┊:* 𝑇ℎ𝑎𝑛𝑘𝑠 𝑡𝑜 
-*║┊:* @Samu330
-*║┊:* ❤Sam y Perry👑
+*║┊:* @DarkZE
+*║┊:* ❤DarkZE👑
 *╰═┅ৡৢ͜͡✦═══╡𝗦𝗮𝗺𝘂𝟯𝟯𝟬╞═══┅ৡৢ͜͡✦═╯*
 %readmore
 *╭═┅〘🛑 𝗢𝗯𝗲𝗱𝗲𝗰𝗲 𝗹𝗮𝘀 𝗿𝗲𝗴𝗹𝗮𝘀 🛑〙*
